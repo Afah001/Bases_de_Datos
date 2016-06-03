@@ -1,0 +1,11 @@
+PARA CONSULTAR UNA BASE DE DATOS
+			
+			$con=mysql_query(consulta a la base de datos *aterisco significa muchosDatos) ;
+	
+			while ($recoge=mysql_fetch_array($con)) {
+	
+				mientrasque el while tenga datos enotonces entonces muestrelos 
+
+			} 
+
+	

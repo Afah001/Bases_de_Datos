@@ -1,0 +1,10 @@
+<?php /*CONEXION A LA BASE DE DATOS
+
+					$variable=mysql_connect(nombre del servidor,_usuario,password);
+		
+				Seleccionamos nuestra base de datos
+
+					mysql_select_db(nombre de la base de datos,variable) or die ('mensaje de error cuando no se puede conectar a la base de datos');
+
+
+>?*/
